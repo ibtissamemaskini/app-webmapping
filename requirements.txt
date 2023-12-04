@@ -2,7 +2,6 @@ altair==5.2.0
 branca==0.7.0
 folium==0.14.0
 fpdf==1.7.2
-GDAL==3.4.3
 geopandas==0.14.1
 imageio==2.33.0
 leafmap==0.29.4
